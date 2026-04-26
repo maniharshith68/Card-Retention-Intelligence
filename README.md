@@ -25,7 +25,7 @@ SHAP-based explanations to help retention teams act on predictions — not just 
 
 ## Live Dashboard
 
-> 🚀 **[Launch Card-Retention-Intelligence Dashboard](https://your-app.streamlit.app)**
+> 🚀 **[Launch Card-Retention-Intelligence Dashboard](https://card-retention-intelligence-pipeline.streamlit.app)**
 
 5 interactive pages:
 | Page | What it does |
