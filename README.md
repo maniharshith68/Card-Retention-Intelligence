@@ -129,7 +129,7 @@ python -m streamlit run dashboard/app.py
 - [x] Phase 3 — Model Training & Evaluation (XGBoost + Logistic Regression)
 - [x] Phase 4 — SHAP Explainability
 - [x] Phase 5 — Streamlit Business Dashboard
-- [ ] Phase 6 — Deployment (Streamlit Community Cloud)
+- [x] Phase 6 — Deployment (Streamlit Community Cloud)
 
 ---
 
@@ -150,4 +150,14 @@ milliseconds; recomputing for 2,026 samples takes 30 seconds.
 **Why Stratified K-Fold?** With 16% churn, regular KFold risks putting all churners
 in one fold. Stratified guarantees each fold reflects the true class distribution.
 
+---
+
+## Collaboration and Acknowledgements
+This project was built and developed in collaboration with [Shruti Kumari](https://github.com/shrutisurya108).
+ 
+ 
+## 👤 Authors
+- [Harshith Bhattaram](https://github.com/maniharshith68)
+- [Shruti Kumari](https://github.com/shrutisurya108)
+ 
 ---
